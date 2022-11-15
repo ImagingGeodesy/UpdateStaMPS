@@ -20,4 +20,4 @@ Note that the default StaMPS can only read a limited number of interferograms (e
 
 References:
 
-Hooper A, Bekaert D, Spaans K, Arıkan M (2012) Recent advances in SAR interferometry time series analysis for measuring crustal deformation. *Tectonophysics*, 514:1-13.
+Hooper A, Bekaert D, Spaans K, Arıkan M, (2012), Recent advances in SAR interferometry time series analysis for measuring crustal deformation. *Tectonophysics*, 514:1-13.
