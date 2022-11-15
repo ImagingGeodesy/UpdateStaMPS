@@ -1,6 +1,6 @@
 # UpdateStaMPS
 This is an update of mt_prep_gamma in StamMPS, which will not be limited by memory in the SBAS processing.
-Note that default StaMPS can only read a limited number of interferograms (e.g., 510).
+Note that the default StaMPS can only read a limited number of interferograms (e.g. 510) depending on system memory.
 
 Steps to use:
 1) Compile selsbc_patch_update.c and pscphase_update.c in Linux/Mac: 
